@@ -3,6 +3,7 @@
     "version": "0.1.0",
     "private": true,
     "author": "gvetto",
+    "repository": "https://github.com/gvetto/myfirstreactapp.git",
     "dependencies": {
         "react": "^16.10.2",
         "react-dom": "^16.10.2",
